@@ -1,0 +1,7 @@
+baseURL = 'https://ji-min-choi.github.io/blog-ex/'
+languageCode = 'en-us'
+title = "Jimin's archive"
+theme = 'hugo-theme-stack'
+
+[params.defaultImage.opengraph]
+enabled = false
